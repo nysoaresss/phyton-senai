@@ -1,0 +1,11 @@
+print("Hello, Beautiful")
+
+nome_usuario = "Denise" 
+idade_usuario = 74 
+altura_usuario = 2.05
+maior_idade = True 
+
+print('Seja Bem-Vindo', nome_usuario)
+print('Sua idade é',idade_usuario, 'anos')
+print('Voce tem', altura_usuario, 'metros')
+print('Você é maior de idade?', maior_idade)
